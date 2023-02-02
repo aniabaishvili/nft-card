@@ -112,7 +112,7 @@ p{
     height: 270px;
     background-color: hsla(178, 100%, 50%, 0.5);
     position: absolute;
-    top:0;
+    top:40px;
     opacity: 0;
     display: flex;
     justify-content: center;
