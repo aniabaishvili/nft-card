@@ -1,5 +1,5 @@
 # NFT Card
-### This is my second project where i used pure: 
+### This is my second project where i used: 
 * HTML
 * CSS
 <img width="951" alt="nft1" src="https://user-images.githubusercontent.com/110342939/222506957-2c41ed71-4611-43c6-9b36-2a426c02bcab.png">
