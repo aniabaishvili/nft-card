@@ -1,5 +1,5 @@
 # NFT Card
-### This is my second project where i used: 
+### This is my second project from frontend mentor where i used: 
 * HTML
 * CSS
 ## Screenshot
